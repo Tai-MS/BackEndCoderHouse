@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Samsun S24",
+    "description": "Ultimo celular de Samsung",
+    "code": "sms24",
+    "price": "1000",
+    "statu": true,
+    "stock": "5",
+    "category": "celular",
+    "thumbnail": "No image"
+  },
+  {
+    "id": 2,
+    "title": "Google Pixel 4",
+    "description": "Ultimo celular de Google",
+    "code": "gopx4",
+    "price": "800",
+    "statu": true,
+    "stock": "10",
+    "category": "celular",
+    "thumbnail": "No image"
+  },
+  {
+    "id": 3,
+    "title": "RTX 2060",
+    "description": "Placa de video",
+    "code": "rt2060",
+    "price": "300",
+    "statu": true,
+    "stock": "5",
+    "category": "Tarjeta Grafica",
+    "thumbnail": "No image"
+  },
+  {
+    "id": 4,
+    "title": "RTX3060",
+    "description": "Placa de video",
+    "code": "rt3060",
+    "price": "400",
+    "statu": true,
+    "stock": "20",
+    "category": "Tarjeta Grafica",
+    "thumbnail": "No image"
+  },
+  {
+    "id": 5,
+    "title": "Intel I5-14900k",
+    "description": "Procesador Intel",
+    "code": "in14k",
+    "price": "750",
+    "statu": true,
+    "stock": "3",
+    "category": "procesador",
+    "thumbnail": "No image"
+  },
+  {
+    "id": 6,
+    "title": "Monitor LG",
+    "description": "Monitor 144hz",
+    "code": "lg144",
+    "price": "350",
+    "statu": true,
+    "stock": "20",
+    "category": "monitor",
+    "thumbnail": "No image"
+  },
+  {
+    "id": 7,
+    "title": "Teclado Logitech G513",
+    "description": "Teclado Logitech",
+    "code": "log513",
+    "price": "150",
+    "statu": true,
+    "stock": "5",
+    "category": "teclado",
+    "thumbnail": "No image"
+  },
+  {
+    "id": 8,
+    "title": "Mouse Logitech",
+    "description": "Mouse Logitech",
+    "code": "mslg",
+    "price": "130",
+    "statu": true,
+    "stock": "100",
+    "category": "mouse",
+    "thumbnail": "No image"
+  },
+  {
+    "id": 9,
+    "title": "Mousepad",
+    "description": "Mousepad",
+    "code": "msp",
+    "price": "30",
+    "statu": true,
+    "stock": "100",
+    "category": "mousepad",
+    "thumbnail": "No image"
+  },
+  {
+    "id": 10,
+    "title": "Mouse Razer Viper",
+    "description": "Mouse Razer Viper",
+    "code": "msrzv",
+    "price": "200",
+    "statu": true,
+    "stock": "10",
+    "category": "mouse",
+    "thumbnail": "No image"
+  }
+]
